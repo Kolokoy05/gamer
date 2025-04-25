@@ -1,0 +1,96 @@
+.offergamer {
+    width: 40%;
+    margin-bottom: -80px;
+    margin: auto;
+    color: white;
+}
+.maintext{
+    display: inline-block;
+}
+.offergamer .title{
+    padding: 20px;
+}
+.offergamer .content  h1{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+}
+.offergamer .content .texts{
+    font-size: 15px;
+    font-family: Arial, Helvetica,;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.offergamer .content span{
+    color:red;
+}
+.offergamer .content .contact{
+     gap:20px;
+     display: inline-flex;
+     margin-top: 50px;
+}
+.content .contact .senses{
+    display: flex;
+    margin-right: -15px;
+    color: white;
+}
+.contact .senses a{
+    color: white;
+    gap: 10px;
+    padding-right: 10px;
+    padding-right: 20px;
+}
+.offergamer .content .contact p{
+    margin-top: 0px; 
+    margin-left: -2px;
+}
+
+.offergamer .content .sensimga{
+    width: 20px;
+    height:20px;
+    border-radius: 200px;
+    padding-right: 1px;
+}
+.offergamer .content .conads{
+    border: 1px solid transparent;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+@media screen and (max-width:774px){
+    .offergamer {
+        width: 80%;
+        margin: auto;
+        color: white;
+        margin: auto;
+    }
+    .main .offergamer img {
+        width: 100%;
+        height: 70%;
+    }
+ }
+ @media screen and (max-width: 958px){
+    .offergamer {
+        width: 80%;
+        margin: auto;
+        color: white;
+        margin: auto;
+    }
+    .main .offergamer img {
+        width: 100%;
+        height: 70%;
+    }
+ }
+
+ @media screen and (max-width: 500px){
+    .offergamer {
+        width: 90%;
+        margin: auto;
+        color: white;
+        margin: auto;
+    }
+    .main .offergamer img {
+        width: 100%;
+        height: 70%;
+    }
+ }
+
