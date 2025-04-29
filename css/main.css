@@ -97,7 +97,7 @@ body{
 .offergamer .offerbuttons p{
      border: 1px solid transparent;
      padding: 5px;
-     width: 120px;
+     width: 50%;
      text-align: center;
      border-radius: 20px;
      background: rgb(194, 46, 46); 
@@ -109,7 +109,7 @@ body{
 .offergamer .offerbuttons p:hover{
     border: 1px solid transparent;
     padding: 5px;
-    width: 120px;
+    width: 50%;
     text-align: center;
     border-radius: 20px;
     background: rgba(194, 46, 46, 0.507); 
@@ -173,6 +173,23 @@ body{
         height: 100px;
         margin: auto;
     }
+    .offergamer .offerbuttons p{
+        border: 1px solid transparent;
+        padding: 5px;
+        width: 70%;
+        text-align: center;
+        border-radius: 20px;
+        background: rgb(194, 46, 46); 
+        text-decoration: none;
+   }
+   .offergamer .offerbuttons p:hover{
+       border: 1px solid transparent;
+       padding: 5px;
+       width: 70%;
+       text-align: center;
+       border-radius: 20px;
+       background: rgba(194, 46, 46, 0.507); 
+   }
 }
 @media screen and (max-width: 550px){
     .main .offergamer img{
