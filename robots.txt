@@ -1,18 +1,9 @@
-User-Agent: *
-Allow: /ads/preferences/
-Allow: /dtt/k
-Allow: /pagead/show_ads.js
-Allow: /pagead/managed/
-Disallow:
 User-agent: Googlebot
-Disallow: 
-User-agent: googlebot-image
-Disallow: 
-User-agent: googlebot-mobile
-Disallow: 
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
+Allow: /
+
 Sitemap: https://boostgame.site/sitemap.xml
 
 
