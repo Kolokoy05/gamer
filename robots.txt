@@ -13,6 +13,6 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: boostgame.site
+Sitemap: https://boostgame.site/sitemap.xml
 
 
